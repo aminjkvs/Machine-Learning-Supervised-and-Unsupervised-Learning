@@ -44,4 +44,5 @@ SOM is a type of artificial neural network that uses unsupervised learning to pr
 - Min-Max normalization for stable training
 - GIF generation showing the learning process
 
-- ![Uploading SOM_with_Grid_Overlay.gif…]()
+  
+![SOM_with_Grid_Overlay](https://github.com/user-attachments/assets/408cae67-053b-46b2-8e2e-80c55feaf14a)
