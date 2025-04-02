@@ -1,2 +1,8 @@
 # Machine-Learning-Supervised-and-Unsupervised-Learning
-This repository includes code implementations for supervised (regression, classification) and unsupervised (clustering, PCA) learning algorithms. It features Jupyter notebooks, sample datasets, and model visualizations. Explore, contribute, and enhance your ML skills!
+
+## Overview
+This repository contains implementations of fundamental machine learning algorithms, covering both **supervised** and **unsupervised** learning approaches. Each implementation includes:
+- Clean, modular Python code
+- Mathematical formulation of the algorithm
+- Training visualization (GIF/video)
+- Parameter tuning guidance
